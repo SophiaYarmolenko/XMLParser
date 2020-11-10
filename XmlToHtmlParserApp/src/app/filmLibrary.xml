@@ -1,0 +1,70 @@
+<?xml version = "1.0" encoding="windows-1251" ?>
+
+<filmLibrary>
+
+    <film>
+        <title>Bloodshot</title>
+
+        <genre>action</genre>
+
+        <year>2020</year>
+
+        <country>German</country>
+
+        <director>David S.F. Wilson</director>
+
+    </film>
+
+    <film>
+        <title>Debt Collectors</title>
+
+        <genre>action</genre>
+
+        <year>2020</year>
+
+        <country>USA</country>
+
+        <director>Jesse V. Johnson</director>
+
+    </film>
+
+    <film>
+        <title>Black Panther</title>
+
+        <genre>drama</genre>
+
+        <year>2018</year>
+
+        <country>USA</country>
+
+        <director>Ryan Kugler</director>
+
+    </film>
+
+    <film>
+        <title>Black Panther</title>
+
+        <genre>drama</genre>
+
+        <year>2018</year>
+
+        <country>USA</country>
+
+        <director>Ryan Kugler</director>
+
+    </film>
+
+    <film>
+        <title>Parasites</title>
+
+        <genre>drama</genre>
+
+        <year>2019</year>
+
+        <country>Korea</country>
+
+        <director>Bong Joon Ho</director>
+
+    </film>
+
+</filmLibrary>
